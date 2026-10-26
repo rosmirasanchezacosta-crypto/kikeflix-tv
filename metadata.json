@@ -1,6 +1,0 @@
-{
-  "name": "KikeFlix.TV - Canal Lineal en Vivo",
-  "description": "Canal de TV lineal continuo y sincronizado en vivo con parrilla EPG, comerciales y reproductor web.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
